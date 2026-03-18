@@ -171,6 +171,14 @@
 
 ---
 
+## 작업과정
+![IMG_3614](https://github.com/user-attachments/assets/9ffd5695-7c22-4cd7-9b3a-364805a204f3)
+![IMG_3693](https://github.com/user-attachments/assets/4c45cacc-f3e5-47aa-9553-fb6ce63b74f1)
+![IMG_3703](https://github.com/user-attachments/assets/1115d1da-6a44-4f0c-9fb7-fba1107163f4)
+![IMG_3709](https://github.com/user-attachments/assets/dd223e4e-400a-4dd0-9ea6-78c0681e7aab)
+
+---
+
 ## Notes
 
 실제 임베디드 환경에서 AI 음성 인터페이스를 구현하는 것을 목표로 제작되었으며, 안정성과 실용성 확보를 위한 다양한 예외 처리 로직이 포함되어 있음.
