@@ -1,9 +1,10 @@
-# Smart_Mirror
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b297e251-c161-402d-a36a-bbded58ad3e2" /># Smart_Mirror
 2025-2학기 팀(Holy Cow) 프로젝트로 진행한 "Smart Mirror" 제작 기록용 리포지토리.
 > ESP32-S3 기반 음성 인식 AI 스마트 미러 시스템  
 > Speech Recognition + Gemini AI + TTS + IoT Display
 
 ---
+<img width="1536" height="1024" alt="0e920b7e-f89c-4dee-9445-5f7b77b9d502" src="https://github.com/user-attachments/assets/7301407d-6387-4d5c-826c-f51b72f5bf33" />
 
 ## Overview
 
