@@ -172,10 +172,15 @@
 ---
 
 ## 작업과정
-![IMG_3614](https://github.com/user-attachments/assets/9ffd5695-7c22-4cd7-9b3a-364805a204f3)
-![IMG_3693](https://github.com/user-attachments/assets/4c45cacc-f3e5-47aa-9553-fb6ce63b74f1)
-![IMG_3703](https://github.com/user-attachments/assets/1115d1da-6a44-4f0c-9fb7-fba1107163f4)
-![IMG_3709](https://github.com/user-attachments/assets/dd223e4e-400a-4dd0-9ea6-78c0681e7aab)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ffd5695-7c22-4cd7-9b3a-364805a204f3" width="48%">
+  <img src="https://github.com/user-attachments/assets/4c45cacc-f3e5-47aa-9553-fb6ce63b74f1" width="48%">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1115d1da-6a44-4f0c-9fb7-fba1107163f4" width="48%">
+  <img src="https://github.com/user-attachments/assets/dd223e4e-400a-4dd0-9ea6-78c0681e7aab" width="48%">
+</p>
 
 ---
 
